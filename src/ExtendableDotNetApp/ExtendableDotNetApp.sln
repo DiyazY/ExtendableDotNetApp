@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendableApp", "Extendable
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedEventsAndCommands", "SharedEventsAndCommands\SharedEventsAndCommands.csproj", "{13A43026-A5F3-4AF6-9829-68B01D0716EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionLibPrintFiveTimes", "ExtensionLibPrintFiveTimes\ExtensionLibPrintFiveTimes.csproj", "{50952E42-7217-4067-BF36-38D98D14AC6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{13A43026-A5F3-4AF6-9829-68B01D0716EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13A43026-A5F3-4AF6-9829-68B01D0716EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13A43026-A5F3-4AF6-9829-68B01D0716EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50952E42-7217-4067-BF36-38D98D14AC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50952E42-7217-4067-BF36-38D98D14AC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50952E42-7217-4067-BF36-38D98D14AC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50952E42-7217-4067-BF36-38D98D14AC6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,7 +1,10 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
+using ExtendableApp.Extensions;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -28,7 +31,16 @@ namespace ExtendableApp
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMediatR(new []{typeof(DocumentCreated).Assembly, typeof(Startup).Assembly});
+            var pluginPath = Path.Combine(Directory.GetCurrentDirectory(), "Plugins");
+            var files = Directory.GetFiles(pluginPath);
+            var assemblies = new List<Assembly> {typeof(DocumentCreated).Assembly, typeof(Startup).Assembly};
+            foreach (var file in files)
+            {
+                var assembly = PluginsExtension.LoadPlugin(file);
+                assemblies.Add(assembly);
+            }
+            
+            services.AddMediatR(assemblies.ToArray());
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

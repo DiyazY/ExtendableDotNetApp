@@ -6,7 +6,7 @@ using SharedEventsAndCommands;
 
 namespace ExtendableApp.Handlers
 {
-    public class DocumentCreatedInBuildHandler : INotificationHandler<DocumentCreated>
+    public class DocumentCreatedInBuiltHandler : INotificationHandler<DocumentCreated>
     {
         public Task Handle(DocumentCreated notification, CancellationToken cancellationToken)
         {
