@@ -17,17 +17,20 @@ namespace ExtendableApp.Handlers
 
         public Task<Unit> Handle(CreateDocumentCommand request, CancellationToken cancellationToken)
         {
+            Console.WriteLine("Document creation ---------------------->");
             // do some work
             Console.WriteLine("Document created!!!");
             
             //publishes notification that document was created
-            _mediator.Publish(new DocumentCreated
-            {
-                Name = request.Name,
-                Author = request.Author,
-                CreatedAt = DateTime.Now
-            }, cancellationToken);
-            
+            //Note: naive background call
+            Task.Factory.StartNew(() => 
+                _mediator.Publish(new DocumentCreated
+                {
+                    Name = request.Name,
+                    Author = request.Author,
+                    CreatedAt = DateTime.Now
+                }, cancellationToken), cancellationToken);
+            Console.WriteLine("Document creation <----------------------");
             return Unit.Task;
         }
     }

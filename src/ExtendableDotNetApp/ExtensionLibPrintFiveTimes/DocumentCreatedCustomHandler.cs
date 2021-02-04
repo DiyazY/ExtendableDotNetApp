@@ -10,6 +10,7 @@ namespace ExtensionLibPrintFiveTimes
     {
         public Task Handle(DocumentCreated notification, CancellationToken cancellationToken)
         {
+            Console.WriteLine("Custom Handler ---------------------->");
             // do some work
             Console.WriteLine("Custom Handler");
             for (int i = 0; i < 5; i++)
@@ -18,7 +19,7 @@ namespace ExtensionLibPrintFiveTimes
                     $"The document '{notification.Name}' was created by {notification.Author} at {notification.CreatedAt}".PadLeft(5));    
             }
             
-
+            Console.WriteLine("Custom Handler <----------------------");
             return Task.CompletedTask;
         }
     }
