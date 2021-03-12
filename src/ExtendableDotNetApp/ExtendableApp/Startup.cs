@@ -31,16 +31,19 @@ namespace ExtendableApp
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            // loading plugins into memory 
             var pluginPath = Path.Combine(Directory.GetCurrentDirectory(), "Plugins");
             var files = Directory.GetFiles(pluginPath);
-            var assemblies = new List<Assembly> {typeof(DocumentCreated).Assembly, typeof(Startup).Assembly};
+            var plugins = new List<Assembly> {typeof(DocumentCreated).Assembly, typeof(Startup).Assembly};
             foreach (var file in files)
             {
                 var assembly = PluginsExtension.LoadPlugin(file);
-                assemblies.Add(assembly);
+                plugins.Add(assembly);
             }
             
-            services.AddMediatR(assemblies.ToArray());
+            // registering handlers
+            services.AddMediatR(plugins.ToArray());
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
