@@ -1,3 +1,4 @@
+using System.Threading.Tasks;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using SharedEventsAndCommands;
@@ -15,9 +16,16 @@ namespace ExtendableApp.Controllers
         }
         //POST
         [HttpPost]
-        public ActionResult AddNewDocument([FromBody] CreateDocumentCommand command)
+        public async Task<ActionResult> AddNewDocument([FromBody] CreateDocumentCommand command)
         {
-            _mediator.Send(command);
+            await _mediator.Send(command);
+            return Ok();
+        }
+
+        [HttpPost("post-message")]
+        public async Task<ActionResult> PostMessage([FromBody] PostMessageCommand command)
+        {
+            await _mediator.Send(command);
             return Ok();
         }
     }

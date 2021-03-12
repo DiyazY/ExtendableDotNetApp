@@ -14,4 +14,8 @@
     <ProjectReference Include="..\SharedEventsAndCommands\SharedEventsAndCommands.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Plugins" />
+  </ItemGroup>
+
 </Project>

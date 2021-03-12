@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionLibPrintFiveTimes"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionLibLongRunTask", "ExtensionLibLongRunTask\ExtensionLibLongRunTask.csproj", "{AB56A732-AC1D-4A2C-989F-542FE2B487DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionLibTwitter", "ExtensionLibTwitter\ExtensionLibTwitter.csproj", "{F75FE5ED-C1F4-464D-98B9-7F6DC18D0C71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{AB56A732-AC1D-4A2C-989F-542FE2B487DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB56A732-AC1D-4A2C-989F-542FE2B487DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB56A732-AC1D-4A2C-989F-542FE2B487DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75FE5ED-C1F4-464D-98B9-7F6DC18D0C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75FE5ED-C1F4-464D-98B9-7F6DC18D0C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75FE5ED-C1F4-464D-98B9-7F6DC18D0C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75FE5ED-C1F4-464D-98B9-7F6DC18D0C71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
