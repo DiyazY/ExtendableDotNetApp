@@ -30,6 +30,13 @@ namespace ExtendableApp.Handlers
                     Author = request.Author,
                     CreatedAt = DateTime.Now
                 }, cancellationToken), cancellationToken);
+            //TODO: start from here
+            // _mediator.Publish(new DocumentCreated
+            // {
+            //     Name = request.Name,
+            //     Author = request.Author,
+            //     CreatedAt = DateTime.Now
+            // }, cancellationToken);
             Console.WriteLine("Document creation <----------------------");
             return Unit.Task;
         }

@@ -5,6 +5,8 @@ using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
 using ExtendableApp.Extensions;
+using Hangfire;
+using Hangfire.MemoryStorage;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -43,11 +45,19 @@ namespace ExtendableApp
             
             // registering handlers
             services.AddMediatR(plugins.ToArray());
+            
+            services.AddTransient(typeof(IPipelineBehavior<,>), typeof(RequestPerformanceBehaviour<,>));
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ExtendableApp", Version = "v1" });
+            });
+            
+
+            services.AddHangfire(config =>
+            {
+                config.UseMemoryStorage();
             });
         }
 
@@ -66,6 +76,9 @@ namespace ExtendableApp
             app.UseRouting();
 
             app.UseAuthorization();
+            
+            app.UseHangfireDashboard();
+            app.UseHangfireServer();
 
             app.UseEndpoints(endpoints =>
             {

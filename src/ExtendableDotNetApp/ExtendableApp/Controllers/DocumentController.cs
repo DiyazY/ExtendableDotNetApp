@@ -1,4 +1,6 @@
+using System;
 using System.Threading.Tasks;
+using Hangfire;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using SharedEventsAndCommands;
@@ -21,6 +23,15 @@ namespace ExtendableApp.Controllers
             await _mediator.Send(command);
             return Ok();
         }
+        
+        // //POST
+        // [HttpPost("async")]
+        // public async Task<ActionResult> AddNewDocumentAsync([FromBody] CreateDocumentInAsyncWayCommand command)
+        // {
+        //     BackgroundJob.Enqueue(() => _mediator.Send(command));
+        //     return Ok();
+        // }
+        
 
         [HttpPost("post-message")]
         public async Task<ActionResult> PostMessage([FromBody] PostMessageCommand command)
