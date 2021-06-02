@@ -58,6 +58,7 @@ namespace ExtendableApp
             services.AddHangfire(config =>
             {
                 config.UseMemoryStorage();
+                config.UseMediatR();
             });
         }
 

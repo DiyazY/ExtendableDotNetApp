@@ -1,5 +1,6 @@
 using System;
 using System.Threading.Tasks;
+using ExtendableApp.Extensions;
 using Hangfire;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
@@ -24,13 +25,14 @@ namespace ExtendableApp.Controllers
             return Ok();
         }
         
-        // //POST
-        // [HttpPost("async")]
-        // public async Task<ActionResult> AddNewDocumentAsync([FromBody] CreateDocumentInAsyncWayCommand command)
-        // {
-        //     BackgroundJob.Enqueue(() => _mediator.Send(command));
-        //     return Ok();
-        // }
+        //POST
+        [HttpPost("async")]
+        public ActionResult AddNewDocumentAsync([FromBody] CreateDocumentInAsyncWayCommand command)
+        {
+            // go to https://localhost:53285/hangfire
+             _mediator.Enqueue("Run Background Job", command);
+            return Ok();
+        }
         
 
         [HttpPost("post-message")]
