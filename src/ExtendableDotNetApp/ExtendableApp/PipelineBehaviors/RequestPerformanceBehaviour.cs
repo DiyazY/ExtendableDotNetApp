@@ -5,7 +5,7 @@ using MediatR;
 using Microsoft.Extensions.Logging;
 using SharedEventsAndCommands;
 
-namespace ExtendableApp
+namespace ExtendableApp.PipelineBehaviors
 {
     public class RequestPerformanceBehaviour<TRequest, TResponse> : IPipelineBehavior<TRequest, TResponse>
     {

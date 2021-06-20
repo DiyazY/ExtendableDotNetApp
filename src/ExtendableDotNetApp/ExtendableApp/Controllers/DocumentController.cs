@@ -1,6 +1,8 @@
 using System;
 using System.Threading.Tasks;
 using ExtendableApp.Extensions;
+using ExtendableApp.Handlers.DummyEntity;
+using ExtendableApp.Models;
 using Hangfire;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
@@ -40,6 +42,13 @@ namespace ExtendableApp.Controllers
         {
             await _mediator.Send(command);
             return Ok();
+        }
+        
+        [HttpPost("dummy")]
+        public async Task<ActionResult<DummyEntity>> Dummy([FromBody] DummyEntityCommand command)
+        {
+            var response = await _mediator.Send(command);
+            return Ok(response);
         }
     }
 }

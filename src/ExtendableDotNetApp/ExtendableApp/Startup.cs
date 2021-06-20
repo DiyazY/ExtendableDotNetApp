@@ -5,6 +5,8 @@ using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
 using ExtendableApp.Extensions;
+using ExtendableApp.Handlers.DummyEntity;
+using ExtendableApp.PipelineBehaviors;
 using Hangfire;
 using Hangfire.MemoryStorage;
 using MediatR;
@@ -47,6 +49,7 @@ namespace ExtendableApp
             services.AddMediatR(plugins.ToArray());
             
             services.AddTransient(typeof(IPipelineBehavior<,>), typeof(RequestPerformanceBehaviour<,>));
+            services.AddTransient(typeof(IPipelineBehavior<,>), typeof(BusinessRulesBehavior<,>));
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
