@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="784px" preserveAspectRatio="none" style="width:1028px;height:784px;" version="1.1" viewBox="0 0 1028 784" width="1028px" zoomAndPan="magnify"><defs/><g><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="27" x="988" y="9.668">TBPM</text><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="116" x="449.5" y="29.1797">Context View</text><!--MD5=[1d1576fb4fe1548d3a813164c21fdeaf]
+entity business--><rect fill="#08427B" height="150.4414" style="stroke:#073B6F;stroke-width:1.5;" width="195" x="7" y="260.4766"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="52" x="78.5" y="282.0781">«person»</text><image height="48" width="48" x="80.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="284.6094"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="106" x="51.5" y="348.0781">Organization</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="106.5" y="364.9883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="167" x="21" y="381.4766">Organization of any size</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="50" y="397.9648">and in any field.</text><!--MD5=[f70b9d247e43500e840d71dfa0c61e9f]
+entity business_app--><rect fill="#999999" height="135.418" style="stroke:#8A8A8A;stroke-width:1.5;" width="220" x="399" y="523.9766"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="105" x="456.5" y="545.5781">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="169" x="424.5" y="563.5781">Organization System</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="511" y="580.4883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="196" x="413" y="596.9766">Any organization's system(s)</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="161" x="426.5" y="613.4648">that are responsible for</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="189" x="412.5" y="629.9531">handling the organization's</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="182" x="418" y="646.4414">domain-specific demands.</text><!--MD5=[691a1726be306d84324876b17512fe90]
+entity system--><rect fill="#1168BD" height="135.418" style="stroke:#3C7FC0;stroke-width:1.5;" width="206" x="406" y="267.9766"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="52" x="483" y="289.5781">«system»</text><a href="https://tfs.isate.kz/tfs/DefaultCollection/TBPM/_wiki/wikis/TBPM.wiki?wikiVersion=GBwikiMaster&amp;pagePath=%2F%D0%94%D0%BB%D1%8F%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0%2F%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%2FContainers%20View" target="_top" title="https://tfs.isate.kz/tfs/DefaultCollection/TBPM/_wiki/wikis/TBPM.wiki?wikiVersion=GBwikiMaster&amp;pagePath=%2F%D0%94%D0%BB%D1%8F%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0%2F%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%2FContainers%20View" xlink:actuate="onRequest" xlink:href="https://tfs.isate.kz/tfs/DefaultCollection/TBPM/_wiki/wikis/TBPM.wiki?wikiVersion=GBwikiMaster&amp;pagePath=%2F%D0%94%D0%BB%D1%8F%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0%2F%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%2FContainers%20View" xlink:show="new" xlink:title="https://tfs.isate.kz/tfs/DefaultCollection/TBPM/_wiki/wikis/TBPM.wiki?wikiVersion=GBwikiMaster&amp;pagePath=%2F%D0%94%D0%BB%D1%8F%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0%2F%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%2FContainers%20View" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" text-decoration="underline" textLength="94" x="462" y="307.5781">Tengri BPM</text></a><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="511" y="324.4883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="420" y="340.9766">Provides a comprehensive</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="430.5" y="357.4648">solution for managing</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="162" x="426" y="373.9531">organization's business</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="473" y="390.4414">processes.</text><!--MD5=[a125283b53f44f6cd63c05ad63dee095]
+entity qujat--><rect fill="#999999" height="135.418" style="stroke:#8A8A8A;stroke-width:1.5;" width="218" x="804" y="186.9766"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="105" x="860.5" y="208.5781">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="117" x="854.5" y="226.5781">Qujat Gateway</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="915" y="243.4883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="190" x="818" y="259.9766">The gateway for documents</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="832" y="276.4648">interchanging between</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="194" x="814" y="292.9531">governmental organizations</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="836.5" y="309.4414">and integrated clients.</text><!--MD5=[0bbf5511d91d17fcdd97aa38a0263a02]
+entity AD--><rect fill="#999999" height="118.9297" style="stroke:#8A8A8A;stroke-width:1.5;" width="217" x="804.5" y="356.9766"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="105" x="860.5" y="378.5781">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="130" x="848" y="396.5781">Active Directory</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="915" y="413.4883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="189" x="818.5" y="429.9766">Provides an auth service for</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="832" y="446.4648">entering the enterprise</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="875.5" y="462.9531">ecosystem.</text><!--MD5=[0d1fabfd4cbbacb3ef73f1f46b911c4e]
+entity 3rd_part_system--><rect fill="#999999" height="135.418" style="stroke:#8A8A8A;stroke-width:1.5;" width="219" x="399.5" y="39.9766"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="105" x="456.5" y="61.5781">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="138" x="440" y="79.5781">3rd Party System</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="511" y="96.4883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="425" y="112.9766">3rd party system. It's not</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="183" x="415.5" y="129.4648">owned by an organization,</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="199" x="409.5" y="145.9531">but the organization needs it</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="454.5" y="162.4414">in its processes.</text><!--MD5=[cac2a2ebfe328dcaf7bb985245e2cadf]
+link business to system--><path d="M202.16,335.4766 C261.04,335.4766 336.46,335.4766 397.67,335.4766 " fill="none" id="business-to-system" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="405.82,335.4766,397.82,332.4766,397.82,338.4766,405.82,335.4766" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="131" x="233" y="290.0781">uses to run business</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="122" x="237.5" y="304.2109">processes in digital</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="42" x="279.5" y="318.3438">format</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="121" x="240" y="332.4766">[via Web Application]</text><!--MD5=[6331bfe1f84cd7770a3b3f4970c1ace3]
+link system to qujat--><path d="M612.22,314.8766 C668.21,303.5966 737.8,289.5766 795.84,277.8866 " fill="none" id="system-to-qujat" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="803.95,276.2466,795.5141,274.8915,796.7032,280.7725,803.95,276.2466" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="80" x="669.5" y="252.0781">interchanges</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="123" x="650" y="266.2109">documents through</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="46" x="688.5" y="280.3438">[HTTPS]</text><!--MD5=[bb5ab9b2a26e72d4a1c1b4fd63db3c0c]
+link system to AD--><path d="M612.18,364.7166 C624.54,367.8666 637.02,370.8666 649,373.4766 C696.97,383.9266 750.36,393.0966 796.43,400.2566 " fill="none" id="system-to-AD" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="804.35,401.4866,796.8986,397.306,795.9871,403.2364,804.35,401.4866" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="114" x="652.5" y="328.0781">gets authorized in</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="63" x="678" y="342.2109">enterprise</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="104" x="659.5" y="356.3438">infrastructure by</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="46" x="688.5" y="370.4766">[HTTPS]</text><!--MD5=[efe009febe39a58f713765df13fe45ce]
+link system to business_app--><path d="M509,403.0066 C509,437.7066 509,480.0966 509,515.8766 " fill="none" id="system-to-business_app" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="509,523.8766,512,515.8766,506,515.8766,509,523.8766" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="133" x="394.5" y="433.0781">integrates in order to</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="105" x="408.5" y="447.2109">provide coherent</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="130" x="396" y="461.3438">processes across the</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="106" x="408" y="475.4766">organization and</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="128" x="399" y="489.6094">between its systems</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="79" x="423.5" y="503.7422">[configurable]</text><!--MD5=[308d84f42b5b5b4b4c203179b38676d9]
+reverse link 3rd_part_system to system--><path d="M509,183.3566 C509,210.6166 509,241.1566 509,267.6866 " fill="none" id="3rd_part_system-backto-system" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="509,175.0066,506,183.0066,512,183.0066,509,175.0066" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="133" x="408.5" y="205.0781">integrates in order to</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="135" x="407.5" y="219.2109">cover the demands of</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="103" x="425.5" y="233.3438">the organization</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="79" x="437.5" y="247.4766">[configurable]</text><rect fill="#FFFFFF" height="96.4414" rx="5" ry="5" style="stroke:#FFFFFF;stroke-width:1.0;" width="142.68" x="8" y="672.3945"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="51" x="14" y="692.9297">Legend</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="69" y="692.9297"/><rect fill="#08427B" height="16.4883" style="stroke:none;stroke-width:1.0;" width="130.68" x="14" y="695.8828"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="18" y="709.418">person</text><rect fill="#1168BD" height="16.4883" style="stroke:none;stroke-width:1.0;" width="130.68" x="14" y="712.3711"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47" x="18" y="725.9063">system</text><rect fill="#999999" height="16.4883" style="stroke:none;stroke-width:1.0;" width="130.68" x="14" y="728.8594"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="18" y="742.3945">external system</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="18" y="758.8828">relationship</text><image height="13" width="37" x="104" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAANCAYAAAAuYadYAAAAZklEQVR4Xs2OwQnAMAgAnda3M7mcXyewhUBLFBJCaYwH94lKDq6CQHyowNYoRGyaWRxNSYnqXSE96pGI4vrLsaheEXF3EBdO26Jc4s/ED0cys7s7GjUiPWqFlChVjaMpW6O+UjLqBmmk4TRrAUzPAAAAAElFTkSuQmCC" y="748.8159"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="144.68" y="758.8828"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="14" x2="144.68" y1="679.3945" y2="679.3945"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="14" x2="144.68" y1="695.8828" y2="695.8828"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="14" x2="144.68" y1="712.3711" y2="712.3711"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="14" x2="144.68" y1="728.8594" y2="728.8594"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="14" x2="144.68" y1="745.3477" y2="745.3477"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="14" x2="144.68" y1="761.8359" y2="761.8359"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="14" x2="14" y1="679.3945" y2="761.8359"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="144.68" x2="144.68" y1="679.3945" y2="761.8359"/><!--MD5=[44d6bcdbd06c84d3e2dc36eb1882f48a]
+@startuml Context-View
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
+
+LAYOUT_LEFT_RIGHT()
+
+!global $containers_view = "https://tfs.isate.kz/tfs/DefaultCollection/TBPM/_wiki/wikis/TBPM.wiki?wikiVersion=GBwikiMaster&pagePath=%2F%D0%94%D0%BB%D1%8F%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0%2F%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%2FContainers%20View"
+
+header TBPM
+
+title Context View
+
+Person(business, "Organization", "Organization of any size and in any field.")
+' Person(admin, "Administrator", "Monitors the system and prevents downtimes")
+System_Ext(business_app, "Organization System", "Any organization's system(s) that are responsible for handling the organization's domain-specific demands.")
+System(system, "[[$containers_view Tengri BPM]]","Provides a comprehensive solution for managing organization's business processes.")
+System_Ext(qujat, "Qujat Gateway", "The gateway for documents interchanging between governmental organizations and integrated clients.")
+System_Ext(AD, "Active Directory", "Provides an auth service for entering the enterprise ecosystem.")
+System_Ext(3rd_part_system, "3rd Party System", "3rd party system. It's not owned by an organization, but the organization needs it in its processes.")
+
+
+' Rel(admin, system, "monitors the system", "via Kibana")
+Rel(business, system, "uses to run business processes in digital format", "via Web Application")
+Rel(system, qujat, "interchanges documents through", "HTTPS")
+Rel(system, AD, "gets authorized in enterprise infrastructure by", "HTTPS")
+Rel_R(system, business_app, "integrates in order to provide coherent processes across the organization and between its systems", "configurable")
+Rel_L(system, 3rd_part_system, "integrates in order to cover the demands of the organization", "configurable")
+
+legend left
+|<color:$LEGEND_TITLE_COLOR>**Legend**</color> |
+|<$PERSON_BG_COLOR> person |
+|<$SYSTEM_BG_COLOR> system |
+|<$EXTERNAL_SYSTEM_BG_COLOR> external system |
+|<color:$LEGEND_TITLE_COLOR> relationship <img:./arrow.png{scale=0.07}></color> |
+endlegend
+
+@enduml
+
+@startuml Context-View
+
+
+
+
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam queue {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam package {
+    StereotypeFontSize 6
+    StereotypeFontColor #FFFFFF
+    FontStyle plain
+    BackgroundColor #FFFFFF
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 6
+    StereotypeFontColor #FFFFFF
+    FontColor #444444
+    BorderColor #444444
+    BackgroundColor #FFFFFF
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam database<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam queue<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam database<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam queue<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam queue<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam queue<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+
+
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+sprite $person2 [48x48/16] {
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000002578888300000000005888864100000000000
+0000000007DFFFFFFFFD9643347BFFFFFFFFFB4000000000
+00000004EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB10000000
+0000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD2000000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+00003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+0000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF50000
+0003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD0000
+0009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF2000
+000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6000
+000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA000
+000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6000
+0009FFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFF2000
+0003FFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFD0000
+0000BFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFF50000
+00003FFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFB00000
+000006FFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFE100000
+0000007FFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFD2000000
+00000004EFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFB10000000
+0000000007DF8FFFFFFFFFFFFFFFFFFFFFF8FB4000000000
+000000000002578888888888888888888864100000000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+left to right direction
+
+
+header TBPM
+
+title Context View
+
+rectangle "<$person>\n==Organization\n\n Organization of any size and in any field." <<person>> as business 
+rectangle "==Organization System\n\n Any organization's system(s) that are responsible for handling the organization's domain-specific demands." <<external_system>> as business_app 
+rectangle "==[[https://tfs.isate.kz/tfs/DefaultCollection/TBPM/_wiki/wikis/TBPM.wiki?wikiVersion=GBwikiMaster&pagePath=%2F%D0%94%D0%BB%D1%8F%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0%2F%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%2FContainers%20View Tengri BPM]]\n\n Provides a comprehensive solution for managing organization's business processes." <<system>> as system 
+rectangle "==Qujat Gateway\n\n The gateway for documents interchanging between governmental organizations and integrated clients." <<external_system>> as qujat 
+rectangle "==Active Directory\n\n Provides an auth service for entering the enterprise ecosystem." <<external_system>> as AD 
+rectangle "==3rd Party System\n\n 3rd party system. It's not owned by an organization, but the organization needs it in its processes." <<external_system>> as 3rd_part_system 
+
+
+business - ->> system : **uses to run business processes in digital format**\n//<size:12>[via Web Application]</size>//
+system - ->> qujat : **interchanges documents through**\n//<size:12>[HTTPS]</size>//
+system - ->> AD : **gets authorized in enterprise infrastructure by**\n//<size:12>[HTTPS]</size>//
+system -RIGHT->> business_app : **integrates in order to provide coherent processes across the organization and between its systems**\n//<size:12>[configurable]</size>//
+system -LEFT->> 3rd_part_system : **integrates in order to cover the demands of the organization**\n//<size:12>[configurable]</size>//
+
+legend left
+|<color:#000000>**Legend**</color> |
+|<#08427B> person |
+|<#1168BD> system |
+|<#999999> external system |
+|<color:#000000> relationship <img:./arrow.png{scale=0.07}></color> |
+endlegend
+
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 12:25:05 EET 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: GB
+--></g></svg>
