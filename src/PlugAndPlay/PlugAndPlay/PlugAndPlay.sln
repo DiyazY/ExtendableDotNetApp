@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlugAndPlay", "PlugAndPlay\PlugAndPlay.csproj", "{23264B81-4FBC-424E-B040-D520D0E63289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlugAndPlay.Shared", "PlugAndPlay.Shared\PlugAndPlay.Shared.csproj", "{19B2DE96-1F0F-4A3E-9107-15F36977C79A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterPlugin", "TwitterPlugin\TwitterPlugin.csproj", "{6F61E7DB-473B-41C2-8F2A-51C20DDC5AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerPlugin", "SwaggerPlugin\SwaggerPlugin.csproj", "{F20510C1-ADC0-4A73-9820-DB524AC9D27B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23264B81-4FBC-424E-B040-D520D0E63289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23264B81-4FBC-424E-B040-D520D0E63289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23264B81-4FBC-424E-B040-D520D0E63289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23264B81-4FBC-424E-B040-D520D0E63289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B2DE96-1F0F-4A3E-9107-15F36977C79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B2DE96-1F0F-4A3E-9107-15F36977C79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B2DE96-1F0F-4A3E-9107-15F36977C79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B2DE96-1F0F-4A3E-9107-15F36977C79A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F61E7DB-473B-41C2-8F2A-51C20DDC5AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F61E7DB-473B-41C2-8F2A-51C20DDC5AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F61E7DB-473B-41C2-8F2A-51C20DDC5AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F61E7DB-473B-41C2-8F2A-51C20DDC5AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20510C1-ADC0-4A73-9820-DB524AC9D27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20510C1-ADC0-4A73-9820-DB524AC9D27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20510C1-ADC0-4A73-9820-DB524AC9D27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20510C1-ADC0-4A73-9820-DB524AC9D27B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFFF8239-3013-49A8-8B33-4A6AA380E193}
+	EndGlobalSection
+EndGlobal
