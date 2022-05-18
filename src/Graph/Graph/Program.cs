@@ -94,8 +94,11 @@ using QuikGraph.Data;
 /*
  * Docs is available here: https://github.com/KeRNeLith/QuikGraph/wiki
  1. Build a singleton service class (for example GraphService) that will wrap graph instance (Facade pattern may work out). Note: wtite operations should be thread safe because graph doesn't support it!
- 2. The GraphService may contain some sophisticated internal intermediate classes and logic. However, its public API should be very simple and limited.
- 3. 
+ 2. The GraphService may contain some sophisticated internal intermediate classes and logic.
+    However, its public API should be very simple and limited, moreover, API could be domain oriented and expressed in business terms,
+    such as GetEntityRelationships(entity_id);
+        addEntity(entity) - this will add a vertex;
+        registerRelationship(entity_1, entity_2) - this will add edge;
  */
 
 var graph = new BidirectionalGraph<string, Edge<string>>();
@@ -103,7 +106,9 @@ graph.AddVertex("persons");
 graph.AddVertex("employees");
 graph.AddVertex("positions");
 graph.AddVertex("department");
+
 graph.AddEdge(new Edge<string>("persons", "employees"));
+graph.AddEdge(new Edge<string>("employees", "persons"));
 graph.AddEdge(new Edge<string>("employees", "positions"));
 graph.AddEdge(new Edge<string>("positions", "department"));
 graph.AddEdge(new Edge<string>("employees", "department"));
